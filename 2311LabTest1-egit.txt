@@ -1,1 +1,3 @@
 Hello
+Add line using
+EGit.
